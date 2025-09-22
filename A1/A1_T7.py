@@ -4,4 +4,4 @@ Distance = int(Feed)
 Feed = input("Enter fuel usage(liters): ")
 FuelUsage = int(Feed)
 Consumption = (FuelUsage / Distance) * 100
-print(f"Fuel consumption is {Consumption:.2f} l per 100 km")
+print(f"Fuel consumption is {Consumption} l per 100 km")
