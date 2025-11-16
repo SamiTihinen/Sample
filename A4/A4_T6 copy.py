@@ -13,6 +13,6 @@ else:
 
 steps += 1
 
-print("1") #Viimeinen ykkönen
+print("1")
 print(f"Sequence has {steps} total steps.\n")
 print("Program ending.")
